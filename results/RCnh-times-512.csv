@@ -1,0 +1,9 @@
+input_file, RCnh
+datasets/crusoe.txt, 0.11055
+datasets/dracula.txt, 0.152379
+datasets/iliad.txt, 0.153448
+datasets/mare-balena.txt, 0.0265951
+datasets/midsummer-nights-dream.txt, 0.0174287
+datasets/quijote.txt, 0.352626
+datasets/valley-fear.txt, 0.0577789
+datasets/war-peace.txt, 0.589028

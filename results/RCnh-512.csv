@@ -1,0 +1,9 @@
+input_file, RCnh
+datasets/crusoe.txt, 5959
+datasets/dracula.txt, 7924
+datasets/iliad.txt, 8601
+datasets/mare-balena.txt, 5395
+datasets/midsummer-nights-dream.txt, 3027
+datasets/quijote.txt, 21064
+datasets/valley-fear.txt, 5844
+datasets/war-peace.txt, 16863
